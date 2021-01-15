@@ -1,5 +1,4 @@
 # hello-world
-first data science project
 
 Hi everyone!
 
